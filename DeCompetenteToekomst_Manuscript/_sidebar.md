@@ -2,10 +2,10 @@
   * [Onze Werkelijkheid](Hoofdstuk-1/01_Onze-Werkelijkheid.md)
 
 * Hoofdstuk 2
-  * [De Gedeelde Grond van Ethiek](Hoofdstuk-2/01_De-Gedeelde-Grond-van-Ethiek.md)
-  * [Echo van de Waarheid](Hoofdstuk-2/01_Echo-van-de-Waarheid.md)
-  * [De Mens als Instrument](Hoofdstuk-2/02_De-Mens-als-Instrument.md)
-  * [Van Redding naar Verantwoordelijkheid](Hoofdstuk-2/03_Van-Redding-naar-Verantwoordelijkheid.md)
+  * [De Grondwet van de Realiteit](Hoofdstuk-2/01_De-Grondwet-van-de-Realiteit.md)
+  * [De Convergentie van Wijsheid](Hoofdstuk-2/02_De-Convergentie-van-Wijsheid.md)
+  * [Intelligentie als Instrument](Hoofdstuk-2/03_Intelligentie-als-Instrument.md)
+  * [Systeemverantwoordelijkheid](Hoofdstuk-2/04_Systeemverantwoordelijkheid.md)
 
 * Hoofdstuk 3
   * [Definitie van Incompetentie](Hoofdstuk-3/01_Definitie-van-Incompetentie.md)
